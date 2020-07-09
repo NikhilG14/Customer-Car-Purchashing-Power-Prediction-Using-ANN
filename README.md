@@ -12,5 +12,6 @@ Features:
   <li>Credit Card Debt</li>	
   <li>Net Worth</li>
 </ul>
+
 Output:
-  Car Purchase Amount
+  <li>Car Purchase Amount</li>
